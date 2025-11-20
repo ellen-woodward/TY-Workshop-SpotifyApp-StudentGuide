@@ -2,8 +2,8 @@
 // Don't worry if this is confusing! It is very advanced so we are giving it to you!
 // The token tells the Spotify API that we are a valid user with an account
 function getAccessToken() {
-  const CLIENT_ID = "945fae205b2a4fea8ef00c0a39807731";
-  const CLIENT_SECRET = "1fc32b4709c54f50905fe591dcbfa455";
+  const CLIENT_ID = "";
+  const CLIENT_SECRET = "";
 
   return fetch("https://accounts.spotify.com/api/token", {
     method: "POST",
