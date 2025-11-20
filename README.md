@@ -109,8 +109,6 @@ This project will help you practice:
 - Updating the DOM dynamically  
 - Using Bootstrap for styling  
 - Structuring a small web application  
-- Reading and understanding JSON data  
-
-If you'd like a teacher version, extra hints, or an extended challenge, just ask!
+- Reading and understanding JSON data
 
 
