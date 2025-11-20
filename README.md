@@ -35,6 +35,8 @@ Inside your project, you’ll find:
 
 Some bits are missing on purpose, that's your job!
 
+Copy and paste everything into a new JSFiddle: https://jsfiddle.net/
+
 ---
 
 ## 🧩 Your Quests  
