@@ -1,0 +1,33 @@
+/* Main header section */
+#Spotify {
+}
+
+/* Section containing the search box */
+#FindYourSong {
+}
+
+body {
+}
+
+#placeholder {
+}
+
+/* Spotify logo */
+#spotifylogo {
+    max-width: 200px;
+    height: auto;
+}
+
+/* Search bar + button */
+#search {
+}
+
+#findbtn {
+}
+
+/* Links (like "Listen" buttons) */
+.link {
+}
+
+.link a {
+}
