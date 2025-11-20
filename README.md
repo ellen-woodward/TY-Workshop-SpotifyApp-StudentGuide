@@ -32,6 +32,8 @@ You are provided with:
 
 Some areas in each file are intentionally incomplete for you to finish.
 
+Put these into your JSFiddle: https://jsfiddle.net/
+
 ---
 
 ## 🧠 What You Need to Complete  
